@@ -1,0 +1,14 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment (Jaga-jaga kalau lu taruh env di dalem folder project)
+env/
+venv/
+stock_analysis/
+
+# System files
+.DS_Store
